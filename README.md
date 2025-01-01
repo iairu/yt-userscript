@@ -6,10 +6,10 @@
 
 YouTube seems to have evolved from a community platform into an engagement-driven machine, leading to:
 
-- Dominance of clickbait [1.1] [1.2], over-optimization [2] and algorithmic manipulation [3]
-- Mental health implications from infinite scroll [4]
-- Reduced feeling of purpose or enjoyment [5]
-- Creator burnout [6]
+- Presence of clickbait [1.1] [1.2], over-optimization [2] and interest in algorithmic manipulation [3]
+- Mental health implications from infinite scroll [4] (in this case possible "infinite watch more" instead)
+- Reduced feeling of purpose or enjoyment on a personal level
+- Creator burnout [5]
 
 ## What This Script Does
 
@@ -30,7 +30,7 @@ YouTube seems to have evolved from a community platform into an engagement-drive
 ## Installation
 
 1. Install Tampermonkey from official browser stores
-2. Install script from Greasy Fork [submission in progress] or from this GitHub repository
+2. Install scripts from Greasy Fork [submissions in progress] or from this GitHub repository
 3. Visit YouTube and enjoy distraction-free browsing on video pages (homepage is left untouched)
 
 Join the digital wellness movement. Share this tool if you find it helpful.
