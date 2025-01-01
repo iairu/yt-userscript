@@ -1,4 +1,4 @@
-# Show Channel-Only YouTube Side Recommendations
+# Show Channel-Only YouTube Side Recommendations without Shorts
 
 ![Preview of YouTube user script side recommendations improvement](preview.jpg)
 
@@ -7,7 +7,7 @@
 YouTube seems to have evolved from a community platform into an engagement-driven machine, leading to:
 
 - Presence of clickbait [1.1] [1.2], over-optimization [2] and interest in algorithmic manipulation [3]
-- Mental health implications from infinite scroll [4] (in this case possible "infinite watch more" instead)
+- Mental health implications from infinite scroll [4] (in this case also "infinite watch more")
 - Reduced feeling of purpose or enjoyment on a personal level
 - Creator burnout [5]
 
